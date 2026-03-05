@@ -34,7 +34,7 @@ export function Contact() {
               <h3 className="text-lg font-semibold text-primary">Frontend Development</h3>
               <p className="text-muted-foreground font-medium">Amr Mousa</p>
               <Button size="lg" className="w-full text-white rounded-full" asChild>
-                <a href="mailto:amr.mousa@example.com" className="flex items-center justify-center gap-2">
+                <a href="mailto:amrworkfront@gmail.com" className="flex items-center justify-center gap-2">
                   <Mail className="h-5 w-5" />
                   Email Amr
                 </a>

@@ -10,7 +10,7 @@ const teamMembers = [
     title: "Frontend Developer",
     role: "Frontend Engineer",
     description: "A passionate Frontend Engineer with a keen eye for design and a strong focus on performance and detailed user experience. Specializes in building modern web interfaces using React and Next.js.",
-    email: "amr.mousa@example.com",
+    email: "amrworkfront@gmail.com",
     phone: "01000417601"
   },
   {
